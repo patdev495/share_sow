@@ -1,0 +1,7 @@
+Dear Mr. Wei-ping Ou,
+
+Last year, the AI department developed software for automatic Chinese–Vietnamese language translation based on a request from the QA department. The software has been in continuous use since November 2025.
+
+We have now created an eSign request to officially open the project in order to record the work achievements and recover the software development costs. Please review the SOW attached in the eSign request on the eSign 2.0 system. If there are no issues, we would appreciate your prompt approval of the request.
+
+Thank you.
